@@ -1,3 +1,3 @@
-# Digit Recognizer
+# Machine Learning
 
-A Python convolutional neural network to recognize handwritten digits using the MNIST data set
+Python implementation of some machine learning algorithms
